@@ -18,25 +18,25 @@ Problem Statement:
 
 Challenges include:
 
-1.Difficulty in creating and managing quizzes for diverse topics.
-2.Lack of accessibility for remote learners or employees.
-3.Limited motivation for participants due to monotonous formats.
-4.Absence of detailed analytics for instructors, organizations, or users to track performance.
+1.Difficulty in creating and managing quizzes for diverse topics
+2.Lack of accessibility for remote learners or employees
+3.Limited motivation for participants due to monotonous formats
+4.Absence of detailed analytics for instructors, organizations, or users to track performance
 
 Proposed Solution:
 
 Develop an interactive and user-friendly quiz application that:
-1.Offers customizable quizzes for various topics and difficulty levels.
-2.Provides real-time feedback, leaderboards, and rewards to enhance engagement.
-3.Supports accessibility across devices, ensuring inclusivity for all users.
-4.Includes analytics and reporting tools for tracking performance and identifying improvement areas.
+1.Offers customizable quizzes for various topics and difficulty levels
+2.Provides real-time feedback, leaderboards, and rewards to enhance engagement
+3.Supports accessibility across devices, ensuring inclusivity for all users
+4.Includes analytics and reporting tools for tracking performance and identifying improvement areas
 
 Objectives
 
 1.Engaging Learning Experience
 2.Knowledge Assessment
 3.Personalized Learning
-4.Accessibility and Convenience:
+4.Accessibility and Convenience
 5.Data and Insights
 6.Customizable Content
 7.Social and Competitive Engagement
@@ -59,15 +59,15 @@ Project Plan
 
 Timeline & Milestones:
 -Week 1-2:
-Set up the development environment.
-Implement user authentication and profile management.
+Set up the development environment
+Implement user authentication and profile management
 --Week 3-4:
-Develop the quiz module: quiz creation, question management, timers, and scoring.
-Build the leaderboard and analytics features.
+Develop the quiz module: quiz creation, question management, timers, and scoring
+Build the leaderboard and analytics features
 Week 5-6:
-Integrate multimedia content (images, videos, audio).
-Implement admin dashboard and notification system.
-Deliv
+Integrate multimedia content (images, videos, audio)
+Implement admin dashboard and notification system
+
 
 
 
