@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trivia Quiz</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="landing-page">
+        <h1>Welcome to the Trivia Quiz!</h1>
+        <button onclick="showGameCategory()">Start Game</button>
+    </div>
+
+    <div class="game-category" style="display: none;">
+        <h2>Select a Category:</h2>
+        <button onclick="showQuiz(9)">General Knowledge</button>
+        <button onclick="showQuiz(11)">Movies</button>
+        <button onclick="showQuiz(21)">Sports</button>
+        <button onclick="showQuiz(17)">Science</button>
+    </div>
+
+    <div class="quiz" style="display: none;">
+        <div id="question"></div>
+        <div id="options-container"></div>
+    </div>
+
+    <script src="code.js"></script>
+</body>
+</html>
