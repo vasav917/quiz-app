@@ -128,7 +128,7 @@ Quizly addresses these challenges by providing an interactive and user-friendly 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/quizly.git
+   https://github.com/vasav917/quiz-app.git
    ```
 2. Install dependencies:
    ```bash
