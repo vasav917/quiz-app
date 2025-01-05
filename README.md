@@ -4,6 +4,7 @@ Quizly is a dynamic, feature-rich quiz application built on the powerful MERN st
 Introduction
 
 The purpose of a quiz app is to provide a platform for users to engage in interactive quizzes for various objectives. These purposes can include:
+
 1.Learning and Education
 2.Skill Assessment
 3.Entertainment
@@ -26,6 +27,7 @@ Challenges include:
 Proposed Solution:
 
 Develop an interactive and user-friendly quiz application that:
+
 1.Offers customizable quizzes for various topics and difficulty levels
 2.Provides real-time feedback, leaderboards, and rewards to enhance engagement
 3.Supports accessibility across devices, ensuring inclusivity for all users
@@ -58,6 +60,7 @@ Methodology:
 Project Plan
 
 Timeline & Milestones:
+
 -Week 1-2:
 Set up the development environment
 Implement user authentication and profile management
